@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(17, 118, 143);
+}
+hr {
+    background-color: rgb(1, 41, 51);
+    border-style: none;
+    height: 2px;
+    width: 20%;
+}
+h1,h3,h4 {
+    color: goldenrod;
+}
